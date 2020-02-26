@@ -1,0 +1,13 @@
+12
+push_middle 1
+push_middle 2
+push_middle 3
+push_middle 4
+push_back 5
+push_front 6
+get 0
+get 1
+get 2
+get 3
+get 4
+get 5
